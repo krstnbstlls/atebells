@@ -338,6 +338,10 @@ img#closeBtn {
 
 
 @media screen and (max-width: 440px) {
+.con {
+    transform: translate(-50%, -50%) scale(0.5);
+}
+
 .pic1 {
     top: -30%;
     left: 28%;
@@ -385,8 +389,5 @@ img#closeBtn {
 }
 
 @media screen and (max-width: 380px) {
-.con {
-    transform: translate(-50%, -50%) scale(0.5);
-}
 
 }
