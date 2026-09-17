@@ -384,7 +384,7 @@ img#closeBtn {
 
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 380px) {
 .con {
     transform: translate(-50%, -50%) scale(0.5);
 }
